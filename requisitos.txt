@@ -1,0 +1,8 @@
+notebook
+pandas
+seaborn
+matplotlib
+numpy
+missingno
+sklearn
+imblearn
